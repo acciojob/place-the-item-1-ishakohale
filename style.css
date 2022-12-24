@@ -1,0 +1,11 @@
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.holder {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
